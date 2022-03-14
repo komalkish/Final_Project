@@ -2,5 +2,5 @@
 
 ## Analysis of life expectancy from a Kaggle data set
 	
-###Hypothesis: 
+### Hypothesis: 
 	Developing countries will have lower life expectancy 	than developed countries.
