@@ -1,7 +1,7 @@
 # Final_Project
 
 # Team Members - Roles
-- Komal Kish https://github.com/komalkish
+- Komal Kish
 - Nicole Fisher 
 - Huanhui Huang
 
