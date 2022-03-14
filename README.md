@@ -6,4 +6,4 @@
 	Developing countries will have lower life expectancy than developed countries. 
 	Lower life expectancy for individual with pre existing medical condition.
 	Lower life expectancy for individual in lower income group.
-        Lower life expectancy in individuals with high BMI.
+        
