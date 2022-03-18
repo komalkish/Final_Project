@@ -1,0 +1,22 @@
+WHO_Life_Expectancy
+-
+country varchar pk fk - Suicide.country
+year int pk fk - Suicide.year
+status varchar
+life_exp int 
+gdp int pk fk - Suicide.gdp
+pop int pk fk - Suicide.pop
+adult_mor int
+infant_death int
+alochol int
+Diptheria int
+
+
+Suicide
+-
+country varchar pk
+year int pk
+suicides_no int
+pop int pk
+gdp int pk
+generation varchar
