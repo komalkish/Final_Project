@@ -18,6 +18,10 @@ Analysis of life expectancy from a Kaggle data set. To predict what factors (suc
 # Analysis 
 
 ## Machine Learning Model - 
+We started with understanding Life Expectancy and learned the factors affecting it. We further visualized the affecting parameters and correlated them to derive inferences. Finally, we covered the Linear Regression and implemented it to predict Life expectancy.
+One can extend their life span by adopting a healthy lifestyle, proper education, and getting vaccinated. Of course, Demographic location plays an important role. In our analysis, we found that people living in Europe have a higher lifespan than other continents. A country’s GDP and Income composition affect Life Expectancy more broadly.
+Some parameters like pollution and environmental index have been missing in this analysis and are expected to be highly related to Life Expectancy.
+
 ## Database - To be updated as we move along with the project
 
 Google Slides
