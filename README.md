@@ -17,7 +17,7 @@ Analysis of life expectancy from a Kaggle data set. To predict what factors (suc
 	
 # Analysis 
 
-## Machine Learning Model - To be updated as we move along with the project
+## Machine Learning Model - 
 ## Database - To be updated as we move along with the project
 
 Google Slides
