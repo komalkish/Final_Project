@@ -64,25 +64,25 @@ Life expectancy in Developed countries is higher.
 
 Life expectancy w.r.t Country.
 
-![image](https://user-images.githubusercontent.com/92557075/160527730-34945226-4ef8-4375-8d38-db1245d4a27f.png)
+![image](https://user-images.githubusercontent.com/92557075/160528278-127b0d8b-1335-48a7-b2d8-eaf6f37e4d7d.png)
 
 
 
 Life expectancy w.r.t Year.
 
-![image](https://user-images.githubusercontent.com/92557075/160527765-70b57f2a-4ee4-4a35-99fd-7a60929a5e8c.png)
+![image](https://user-images.githubusercontent.com/92557075/160528301-b410ea5a-71c8-4d41-aeb4-6d2567dd6948.png)
 
 
 
 Correlation heatmap. ( we can see a lot of findings here, such as positive correlation between GDP and life expectancy, positive correlation between Schooling and Income_Comp_of_Resource etc.)
 
+![image](https://user-images.githubusercontent.com/92557075/160528323-da54d85f-349a-49dc-ab48-af65b5884b35.png)
 ![image](https://user-images.githubusercontent.com/92557075/160527827-bc05501a-78e5-47c3-96d6-e3f1e2072890.png)
-
 
 
 T-test conducted. P-value < 0.05. There is a significant difference between status.
 
-![image](https://user-images.githubusercontent.com/92557075/160527870-f214f46a-a62a-480b-97b0-82a09c1faa00.png)
+![image](https://user-images.githubusercontent.com/92557075/160528388-fd010375-042f-4034-ba68-593c3ad882bb.png)
 
 
 Google Slides
