@@ -31,9 +31,18 @@ Second Dataset - The second dataset contains 1927 rows and 3 columns
 Merging of Data - We combined two datasets and created a new column “Suicides. 
 ![image](https://user-images.githubusercontent.com/92557075/160437161-b1bae391-6b6b-4f03-8968-2c892bd1758e.png)
  
- Data cleanup - During our analysis, we noticed the dataset contain null vales. We have used interpolation to replace null values. 
- ![image](https://user-images.githubusercontent.com/92557075/160437501-94429159-410e-4a33-b28d-fa70f0fd1635.png)
+Data cleanup - During our analysis, we noticed the dataset contain null vales. We have used interpolation to replace null values. 
+![image](https://user-images.githubusercontent.com/92557075/160437501-94429159-410e-4a33-b28d-fa70f0fd1635.png)
+![image](https://user-images.githubusercontent.com/92557075/160524364-9ebec5d6-adf0-485d-a827-3a67ede21d78.png)
 
+Outliers - As we can see the graphs below. Almost all feature variables have outliers except Alcohol. 
+![image](https://user-images.githubusercontent.com/92557075/160524419-2e5d99f6-8a9c-4561-90c0-65ed5134da25.png)
+
+We use Winsorization technique to remove all outliers in the feature variables.
+![image](https://user-images.githubusercontent.com/92557075/160524470-7a2661c8-5e21-4bbc-b796-f5938457fcc9.png)
+
+Finally, we are able to clean up the data frame with zero outliers. 
+![image](https://user-images.githubusercontent.com/92557075/160524524-97a94f5c-1439-4280-83d5-0bc3a10c7d50.png)
 
 
 
