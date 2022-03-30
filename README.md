@@ -11,8 +11,8 @@ Analysis of life expectancy from a Kaggle data set. To predict what factors (suc
 ## The data-set aims to answer the following questions
 ### Hypothesis: 
 	whether Developing countries will have lower life expectancy than developed countries? 
-	Does Life Expectancy has positive or negative correlation due to a pre existing medical condition?
-	Does Life Expectancy has positive or negative correlation with eating habits, lifestyle, exercise, smoking, drinking alcohol etc?
+	Does Life Expectancy have positive or negative correlation due to a pre existing medical condition?
+	Does Life Expectancy have positive or negative correlation with eating habits, lifestyle, exercise, smoking, drinking alcohol etc?
 	Do densely populated countries tend to have lower life expectancy?
 	
 # Analysis 
