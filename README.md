@@ -19,7 +19,7 @@ Analysis of life expectancy from a Kaggle data set. To predict what factors (suc
 
 ## Machine Learning Model - 
 We started with understanding Life Expectancy and learned the factors affecting it. We further visualized the affecting parameters and correlated them to derive inferences. Finally, we covered the Linear Regression and implemented it to predict Life expectancy.
-One can extend their life span by adopting a healthy lifestyle, proper education, and getting vaccinated. Of course, Demographic location plays an important role. In our analysis, we found that people living in Europe have a higher lifespan than other continents. A country’s GDP and Income composition affect Life Expectancy more broadly.
+One can extend their life span by adopting a healthy lifestyle, proper education, and getting vaccinated. Of course, Demographic location plays an important role. Through our analysis, we found that people living in Europe have a higher lifespan than other continents. A country’s GDP and Income composition affect Life Expectancy more broadly.
 Some parameters like pollution and environmental index have been missing in this analysis and are expected to be highly related to Life Expectancy.
 
 ## Database
@@ -28,24 +28,24 @@ First dataset - The first dataset contains 2938 rows and 22 columns
 
 Second Dataset - The second dataset contains 1927 rows and 3 columns
 
-Merging of Data - We combined two datasets and created a new column “Suicides. 
+Merging of Data - We combined two datasets and created a new column “Suicides". 
 ![image](https://user-images.githubusercontent.com/92557075/160437161-b1bae391-6b6b-4f03-8968-2c892bd1758e.png)
  
-Data cleanup - During our analysis, we noticed the dataset contain null vales. We have used interpolation to replace null values. 
+Data cleanup - Throough our analysis, we noticed the dataset had null values and therefore, we have used interpolation to replace all null values. 
 ![image](https://user-images.githubusercontent.com/92557075/160437501-94429159-410e-4a33-b28d-fa70f0fd1635.png)
 
 ![image](https://user-images.githubusercontent.com/92557075/160524364-9ebec5d6-adf0-485d-a827-3a67ede21d78.png)
 
 
-Outliers - As we can see the graphs below. Almost all feature variables have outliers except Alcohol. 
+Outliers - The graph below shows an overview of all the outliers pertaining to our study. We noticed all features consist of variables except Alcohol. 
 ![image](https://user-images.githubusercontent.com/92557075/160524419-2e5d99f6-8a9c-4561-90c0-65ed5134da25.png)
 
 
-We use Winsorization technique to remove all outliers in the feature variables.
+We utulized  Winsorization technique to remove all outliers in the feature variables.
 ![image](https://user-images.githubusercontent.com/92557075/160524817-900bc733-d375-4cb0-bb95-87b5a93227aa.png)
 
 
-Finally, we are able to clean up the data frame with zero outliers.
+Below is a dataframe  with zero outliers.
 
 ![image](https://user-images.githubusercontent.com/92557075/160528094-6dd9d44b-fd68-4348-80e6-3120794dc608.png)
 
@@ -53,10 +53,8 @@ Finally, we are able to clean up the data frame with zero outliers.
 
 ## EDA
 
-We can explain with graphs.
 
-
-Life expectancy in Developed countries is higher.
+Life expectancy in developed countries are higher.
 
 ![image](https://user-images.githubusercontent.com/92557075/160524779-3e4c1ed5-9873-4c2d-96bb-2f3cd2e62f49.png)
 
@@ -80,7 +78,7 @@ Correlation heatmap. ( we can see a lot of findings here, such as positive corre
 ![image](https://user-images.githubusercontent.com/92557075/160527827-bc05501a-78e5-47c3-96d6-e3f1e2072890.png)
 
 
-T-test conducted. P-value < 0.05. There is a significant difference between status.
+T-test conducted -  P-value < 0.05. There is a significant difference between status.
 
 ![image](https://user-images.githubusercontent.com/92557075/160528388-fd010375-042f-4034-ba68-593c3ad882bb.png)
 
