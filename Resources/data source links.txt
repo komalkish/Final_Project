@@ -1,0 +1,3 @@
+https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who
+
+https://www.kaggle.com/datasets/szamil/who-suicide-statistics
