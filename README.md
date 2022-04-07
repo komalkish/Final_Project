@@ -9,3 +9,4 @@ Analysis of life expectancy from a [Kaggle dataset](https://www.kaggle.com/datas
 	
 ### Hypothesis: 
 	Developing countries will have lower life expectancy than developed countries. 
+	Countries with longer life expecancy have a higher suicide rate.
